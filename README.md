@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning frontend software development
-- 
+- 🌱 I’m currently learning frontend software development and Internet of Things
+- 👯 I’m looking to collaborate on web development and IoT
+- 📫 How to reach me: https://www.linkedin.com/in/caren-agala/
 
 <!--
 **Caren-Agala/Caren-Agala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
